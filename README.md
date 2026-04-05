@@ -40,11 +40,17 @@ python3 youtube_downloader.py
 # Example
 
 🥔 YouTube Downloader
+
 📁 Your home folder (like /home/user or C:/Users/Name): /home/agrizok 
+
 📁 Your folder for save (like /Downloads/Videos): youtube 
+
 🔍 Your request for search (split by ','): flipper zero,NFC modyle on flipper zero,M5 Stick
+
 Count videos from one search request: 3
+
 💻 Quality of saving videos (like '1080'): 1080
+
 ⚙️ Video format (like 'mp4'): mp4
 
 ⏳ Starting...
